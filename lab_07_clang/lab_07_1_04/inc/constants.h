@@ -1,0 +1,11 @@
+#ifndef CONSTANTS_H
+#define CONSTANTS_H
+
+#define OK 0
+#define INVALID_ARGS 10
+#define INVALID_FILE 11
+#define INVALID_DATA 12
+#define INVALID_POINTERS 13
+#define ZERO_LEN_AFTER_FILT 14
+
+#endif
